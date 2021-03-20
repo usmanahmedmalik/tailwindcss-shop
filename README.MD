@@ -1,6 +1,7 @@
 # Basic Shop template made with tailwindcss
 
-This is a basic shop template made with tailwindcss. I am no UI desinger, so this will be a collection of different components and design inspirations from all over. 
+This is a basic shop template made with tailwindcss. I am no UI desinger, so this will be a collection of different components and design inspirations from all over.
+The template will be used with my Shop SPA App here: https://github.com/usmanahmedmalik/inertia
 
 ## Assets 
 
